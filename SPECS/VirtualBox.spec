@@ -33,6 +33,11 @@ BuildRequires:  glibc-devel
 BuildRequires:  libstdc++
 BuildRequires:  libpng-devel
 BuildRequires:  java-1.8.0-openjdk-devel
+BuildRequires:  genisoimage
+BuildRequires:  libvpx-devel
+BuildRequires:  makeself
+BuildRequires:  libstdc++.i686
+BuildRequires:  glibc-devel.i686
 
 Requires:	    dev86 lsmod
 
